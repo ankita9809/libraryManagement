@@ -1,0 +1,17 @@
+{
+  "name": "librarymanagement",
+  "version": "1.0.0",
+  "description": "Library Management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ankita-kumari",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.7.1",
+    "nodemon": "^2.0.20"
+  }
+}
